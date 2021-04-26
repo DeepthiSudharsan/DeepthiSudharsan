@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/59824729/116090182-37ccce00-a6c1-11eb-8145-fe381ac32d62.png)
+
 <h1 align="center">Hi 👋, I'm Deepthi Sudharsan</h1>
 <h3 align="center">Self-motivated and self-directed person with a high appetite for learning and enhancing skills. A team leader, a hardworking and sincere problem solver. I strive to take ownership and complete tasks while ensuring that the right outcomes are achieved.</h3>
 
