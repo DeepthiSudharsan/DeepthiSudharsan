@@ -5,14 +5,6 @@
 
 - 🌱 I’m currently **studying B.Tech AI**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepthi-sudharsan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepthi-sudharsan/" height="30" width="40" /></a>
-<a href="https://kaggle.com/deepthi sudharsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="deepthi sudharsan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/deepusudhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepusudhan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepthisudharsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="deepthisudharsan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepthisudharsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="deepthisudharsan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/deepthisudharsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="deepthisudharsan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
