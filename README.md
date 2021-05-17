@@ -4,7 +4,7 @@
 
 <h3 align="center">I am a self-motivated and self-directed person with a high appetite for learning and enhancing skills. A team leader, a hardworking and sincere problem solver, I strive to take ownership and complete tasks while ensuring that the right outcomes are achieved.</h3>
 
-- 🌱 I’m currently pursuing B.Tech AI 
+<h3 align="center"> ✨✨ I’m currently pursuing B.Tech AI </h3>
 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
