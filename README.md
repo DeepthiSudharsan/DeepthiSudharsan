@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/59824729/116090182-37ccce00-a6c1-11eb-8145-fe381ac32d62.png)
+![image](https://user-images.githubusercontent.com/59824729/119220445-3d72d380-bb08-11eb-928c-5302b5d4dbdf.png)
 
 <h2 align="center">About Me</h2>
 
