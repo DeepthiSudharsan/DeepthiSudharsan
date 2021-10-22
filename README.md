@@ -1,37 +1,19 @@
-![image](https://user-images.githubusercontent.com/59824729/119220445-3d72d380-bb08-11eb-928c-5302b5d4dbdf.png)
-
-<h2 align="center">About Me</h2>
-
-<h3 align="center">I am a self-motivated and self-directed person with a high appetite for learning and enhancing skills. A team leader, a hardworking and sincere problem solver, I strive to take ownership and complete tasks while ensuring that the right outcomes are achieved.</h3>
-
-<h3 align="center"> ✨✨ I’m currently pursuing B.Tech AI </h3>
-
-<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align = 'center'>
-<a href = 'https://www.linkedin.com/in/deepthi-sudharsan/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/DeepthiSudharsan'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-</p>
-</div>
-
-<h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
-<p align = 'center'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blogger.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scala.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'>
-<br>
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/59824729/138391947-7fac961b-f01b-4b62-bffa-3ef589790b74.png" alt="banner" width="800" height="250">
 </p>
 
+<h2 align='center'> Explore with me on LinkedIn <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepthi-sudharsan" height="20" width="40" /></h2>
+<p float="left" align='center'>
+  <img src="https://user-images.githubusercontent.com/59824729/138387845-c5d03b67-5220-4163-ad92-6fe87fbba9de.png" alt="octocat" width="250" height="300">
+  <img src="https://user-images.githubusercontent.com/59824729/138390482-7fb63f27-977e-4ef3-80d1-ef6836a51640.png" alt="linkedin" >
+</p>
+
+<h2 align='center'> Recent Medium Articles 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deepthi.sudharsan" height="30" width="40" /></h2>
+</p>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@deepthi.sudharsan/0" alt="Recent Article 0"> 
+
+  <h2 align='center'> Strange Strategic Github Statistics :chart_with_upwards_trend:	</h2>
 <p align = 'center'>
-<img align="center" src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'>
-<br>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiSudharsan&theme=default" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepthiSudharsan&show_icons=true&theme=dracula">
 </p>
