@@ -11,7 +11,7 @@
 <h2 align='center'> Recent Medium Articles 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deepthi.sudharsan" height="30" width="40" /></h2>
 </p>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@deepthi.sudharsan/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@deepthi.sudharsan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@deepthi.sudharsan/0" alt="Recent Article 0"> 
 
   <h2 align='center'> Strange Strategic Github Statistics :chart_with_upwards_trend:	</h2>
 <p align = 'center'>
