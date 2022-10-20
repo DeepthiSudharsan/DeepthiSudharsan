@@ -8,7 +8,6 @@
 
 <h2 align='center'> Explore with me on LinkedIn <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepthi-sudharsan" height="20" width="40" /></h2>
 <p float="left" align='center'>
-  <img src="https://user-images.githubusercontent.com/59824729/138387845-c5d03b67-5220-4163-ad92-6fe87fbba9de.png" alt="octocat" width="250" height="300">
   <img src="https://user-images.githubusercontent.com/59824729/138390482-7fb63f27-977e-4ef3-80d1-ef6836a51640.png" alt="linkedin" >
 </p>
 
@@ -19,6 +18,12 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@deepthi.sudharsan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@deepthi.sudharsan/0" alt="Recent Article 0"> 
 </p>
 
+ <h2 align='center'> Achievements 🏆 </h2>
+<p float="left" align='center'>
+  <img src="https://user-images.githubusercontent.com/59824729/197011459-35cde870-13df-417e-9b85-54ac6b34d79c.png" alt="badge" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/59824729/197011873-d0bdabfa-d318-4312-9c94-9398d979f709.png" alt="badge" width="100" height="100">
+</p> 
+  
 <p align = 'center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepthiSudharsan&show_icons=true&theme=dracula">
 </p>
