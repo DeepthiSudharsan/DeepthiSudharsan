@@ -1,9 +1,9 @@
 <p align='center'>
-  <img src="https://user-images.githubusercontent.com/59824729/196995954-880bf68c-3756-4dad-b384-e4853b40788d.png" alt="banner" width="150" height="150">
+  <img src="https://user-images.githubusercontent.com/59824729/197009520-fa0fd666-fa2d-4f5b-9cc8-a6c94a15a675.png" alt="banner" width="800" height="250">
 </p>
 
 <p align='center'>
-  <img src="https://user-images.githubusercontent.com/59824729/138391947-7fac961b-f01b-4b62-bffa-3ef589790b74.png" alt="banner" width="800" height="250">
+  <img src="https://user-images.githubusercontent.com/59824729/197008098-3cc8525d-b0a0-4935-9728-9ab60241d422.png" alt="banner" width="550" height="300">
 </p>
 
 <h2 align='center'> Explore with me on LinkedIn <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepthi-sudharsan" height="20" width="40" /></h2>
