@@ -27,3 +27,9 @@
 <p align = 'center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepthiSudharsan&show_icons=true&theme=dracula">
 </p>
+
+<form>
+  <label for="name">What are you working on right now? What's your mood? </label><br>
+  <input type="text" id="name" name="name"><br>
+  <input type="submit" value="Submit">
+</form>
