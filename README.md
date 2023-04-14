@@ -10,6 +10,9 @@
 <p float="left" align='center'>
   <img src="https://user-images.githubusercontent.com/59824729/138390482-7fb63f27-977e-4ef3-80d1-ef6836a51640.png" alt="linkedin" >
 </p>
+<p float="left" align='center'>
+  Or connect with me on topmate.io : https://topmate.io/deepthi_sudharsan
+</p>
 
 <h2 align='center'> Recent Medium Articles 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deepthi.sudharsan" height="30" width="40" /></h2>
 </p>
