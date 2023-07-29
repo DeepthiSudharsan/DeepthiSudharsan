@@ -21,6 +21,8 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@deepthi.sudharsan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@deepthi.sudharsan/0" alt="Recent Article 0"> 
 </p>
 
+[![Topmate](https://topmate-readme-badge.onrender.com/deepthi_sudharsan?style=flat)](https://topmate.io/deepthi_sudharsan)
+
  <h2 align='center'> Achievements 🏆 </h2>
 <p float="left" align='center'>
   <img src="https://user-images.githubusercontent.com/59824729/197011459-35cde870-13df-417e-9b85-54ac6b34d79c.png" alt="badge" width="100" height="100">
